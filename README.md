@@ -1,1 +1,1 @@
-# DATASCI-207---Energy-Cost-Project-
+# Energy Cost Project [DATASCI 207]
